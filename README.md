@@ -74,7 +74,7 @@ ssh -i "your-key.pem" ubuntu@<your-ec2-public-ip>
 Clone the repository and run the script on your EC2 instance:
 
 ```bash
-git clone https://github.com/<your-username>/terraform-installation.git
+git clone https://github.com/shubham-rasal-123/terraform-installation.git
 cd terraform-installation
 chmod +x install-terraform.sh
 ./install-terraform.sh
